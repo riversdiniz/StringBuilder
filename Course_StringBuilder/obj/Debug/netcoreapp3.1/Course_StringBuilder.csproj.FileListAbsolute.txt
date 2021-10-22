@@ -1,0 +1,14 @@
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\bin\Debug\netcoreapp3.1\Course_StringBuilder.exe
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\bin\Debug\netcoreapp3.1\Course_StringBuilder.deps.json
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\bin\Debug\netcoreapp3.1\Course_StringBuilder.runtimeconfig.json
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\bin\Debug\netcoreapp3.1\Course_StringBuilder.runtimeconfig.dev.json
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\bin\Debug\netcoreapp3.1\Course_StringBuilder.dll
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\bin\Debug\netcoreapp3.1\Course_StringBuilder.pdb
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.AssemblyInfo.cs
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.dll
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.pdb
+C:\Users\river.diniz\Desktop\Course_CSHARP\Course_StringBuilder\Course_StringBuilder\obj\Debug\netcoreapp3.1\Course_StringBuilder.genruntimeconfig.cache
