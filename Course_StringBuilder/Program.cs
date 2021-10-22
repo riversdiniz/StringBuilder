@@ -1,4 +1,8 @@
-﻿using System;
+﻿//AULA DE OOP
+//Professor Nelio Alves
+//https://github.com/acenelio
+
+using System;
 using Course_StringBuilder.Entities;
 
 namespace Course_StringBuilder
